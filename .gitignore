@@ -1,0 +1,4 @@
+.gitignore~
+auto-save-list/
+elpa/
+init.el~
